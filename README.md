@@ -29,7 +29,7 @@
 ✔️ Twitter Timeline\
 ✔️ GitHub Profile
 
-To view a live example, **[click here](https://developerfolio.js.org/)**.
+## To view a live example, **[click here](https://vanshm.netlify.app//))**.
 
 
 ## Getting Started
