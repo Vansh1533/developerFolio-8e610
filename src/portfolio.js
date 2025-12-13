@@ -126,13 +126,13 @@ const educationInfo = {
   schools: [
     {
       schoolName: "IIT Ropar",
-      logo: require("./assets/images/iitroparLogo.png"),
+      logo: require("./assets/images/images.png"),
       subHeader: "Metallurgical and Material Engineer",
       duration: "August 2023 - May 2027",
   
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Key projects demonstrate experience with AI/ML and the Google Gemini API, including an AI-Powered Developer Portfolio" 
+        "Technical skills cover a range of technologies including Programming Languages (C/C++, Python, Javascript), Libraries/Frameworks (Pandas, NumPy, PostgreSQL), and Platforms/Tools (AWS, Vercel, Scikit-learn)"
       ]
     },
     ],
